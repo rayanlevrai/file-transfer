@@ -10,4 +10,4 @@ Replace the information about your server's in `file-transfer.py` and some paths
 
 ## Step 3
 
-Run the script with `python3 file transfer.py`
+Run the script with `python3 file-transfer.py`
